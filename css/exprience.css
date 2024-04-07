@@ -1,0 +1,21 @@
+.resume {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: auto;
+}
+.experience {
+    margin-bottom: 20px;
+}
+.job-title {
+    font-weight: bold;
+}
+.company {
+    font-style: italic;
+}
+.date {
+    color: #666;
+    font-size: 0.9em;
+}
+.description {
+    margin-top: 5px;
+}
