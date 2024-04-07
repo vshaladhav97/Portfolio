@@ -103,16 +103,16 @@
 	/*---------------------------------------------------- */
 	/*	Masonry
 	------------------------------------------------------ */
-	var containerProjects = $('#folio-wrapper');
+	// var containerProjects = $('#folio-wrapper');
 
-	containerProjects.imagesLoaded( function() {
+	// containerProjects.imagesLoaded( function() {
 
-		containerProjects.masonry( {		  
-		  	itemSelector: '.folio-item',
-		  	resize: true 
-		});
+	// 	containerProjects.masonry( {		  
+	// 	  	itemSelector: '.folio-item',
+	// 	  	resize: false 
+	// 	});
 
-	});
+	// });
 
 
 	/*----------------------------------------------------*/
